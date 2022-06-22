@@ -1,0 +1,3 @@
+D:/Dev/CPP/X8080/out/build/x64-debug/CMakeFiles/X8080.dir
+D:/Dev/CPP/X8080/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Dev/CPP/X8080/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
